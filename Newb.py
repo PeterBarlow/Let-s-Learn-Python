@@ -1,1 +1,30 @@
-foods = ['kbbq', 'Sushi', 'cheese']
+import turtle
+t = turtle.Pen()
+
+t.up()
+t.forward(25)
+t.down()
+t.forward(50)
+t.up()
+t.forward(25)
+t.right(90)
+t.forward(25)
+t.down()
+t.forward(50)
+t.up()
+t.forward(25)
+t.right(90)
+t.forward(25)
+t.down()
+t.forward(50)
+t.up()
+t.forward(25)
+t.right(90)
+t.forward(25)
+t.down()
+t.forward(50)
+t.up()
+t.forward(25)
+t.right(90)
+
+
