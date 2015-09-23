@@ -1,1 +1,1 @@
-foods = ['kbbq', 'Sushi']
+foods = ['kbbq', 'Sushi', 'cheese']
