@@ -1,9 +1,8 @@
-if age > 20:
-	print('You are too old.')
-	print('Why are you here?'if age > 20:
-	print('You are too old.')
-	print('Why are you here?')
-	print('Why aren\'t you mowing a lawn or sorting papers?')
-	)
-	print('Why aren\'t you mowing a lawn or sorting papers?')
+if ninjas <= 50 and ninjas >= 31:
+	print('That\'s too many')
+elif ninjas <= 30 and ninjas >= 11:
+	print('It will be a struggle, but I can take em.')
+elif ninjas <= 10:
+	print('I can fight those ninjas.')
+
 	
