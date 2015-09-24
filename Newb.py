@@ -1,30 +1,9 @@
-import turtle
-t = turtle.Pen()
-
-t.up()
-t.forward(25)
-t.down()
-t.forward(50)
-t.up()
-t.forward(25)
-t.right(90)
-t.forward(25)
-t.down()
-t.forward(50)
-t.up()
-t.forward(25)
-t.right(90)
-t.forward(25)
-t.down()
-t.forward(50)
-t.up()
-t.forward(25)
-t.right(90)
-t.forward(25)
-t.down()
-t.forward(50)
-t.up()
-t.forward(25)
-t.right(90)
-
-
+if age > 20:
+	print('You are too old.')
+	print('Why are you here?'if age > 20:
+	print('You are too old.')
+	print('Why are you here?')
+	print('Why aren\'t you mowing a lawn or sorting papers?')
+	)
+	print('Why aren\'t you mowing a lawn or sorting papers?')
+	
